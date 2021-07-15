@@ -1,0 +1,22 @@
+{
+  "name": "js-regular",
+  "version": "1.0.0",
+  "description": "use js to realize regular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodingCommunism/js-regular.git"
+  },
+  "author": "gepingli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodingCommunism/js-regular/issues"
+  },
+  "homepage": "https://github.com/CodingCommunism/js-regular#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
